@@ -4,19 +4,35 @@
 
 ## How to upload your homework?
 
-1. Download and install FileZilla.
-![Screenshot 2025-06-04 224020](https://github.com/user-attachments/assets/92ee55e0-8d98-421a-85b2-01e57a1c99ea)
+# SFTP Login and Upload Instructions
+
+1. **Download and install FileZilla**  
+   Visit [FileZilla’s official website](https://filezilla-project.org/) and download the appropriate version for your operating system. Follow the installation instructions.
+
+2. **Login to your account**  
+   Open FileZilla and enter the following details in the top bar:
+
+   - **Host**: `sftp://172.21.82.208`  
+   - **Username**: Your ID (with a capital letter, e.g., `Zxxx`)  
+   - **Password**: Use the given password
+
+   Click **Quickconnect** to establish the connection.
+
+3. **Upload your assignment**  
+   - Create and upload your folder for each assignment.  
+   - Example folder structure:  
+     ```
+     xxxxx/class8/part1/index.php
+     ```
+     where `xxxxx` is your user ID.
+
+4. **Start transferring files**  
+   After creating your folder, drag and drop your files into it using the FileZilla interface.
+
+> **Note**: If you have any connection issues, please contact the system administrator.
 
 
-
-<img width="460" alt="Screenshot 2024-06-04 at 17 22 46" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/d51a8bb4-4609-46b9-a07e-c144925ce795">
-
-
-2. After logging in, you will be taken to the dashboard. Please create a new folder for each homework part (For example, Assignment4_Part1). Please upload you PHP file inside each respective folder.
-
-![image (1)](https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/167288305/5251e463-71cc-4272-aab7-6ab755817c1e)
-
-
+ <img  alt="Screenshot 2024-06-04 at 17 22 46" src="https://github.com/user-attachments/assets/92ee55e0-8d98-421a-85b2-01e57a1c99ea">
 
 # Part 1
 
