@@ -1,4 +1,4 @@
-# Assigntment-5
+# Assignment-5
 
 ## Introduction to PHP
 
