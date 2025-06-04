@@ -22,7 +22,7 @@
    - Create and upload your folder for each assignment.  
    - Example folder structure:  
      ```
-     xxxxx/class8/part1/index.php
+     xxxxx/Assignment_5/part1/index.php
      ```
      where `xxxxx` is your user ID.
 
@@ -46,7 +46,7 @@ In this exercise, you will apply your knowledge of PHP to create a simple calcul
 4. Below the sum calculation, write additional PHP code to calculate the tax-inclusive amount (8% and 10%).
 5. Use another PHP code block to display the tax-inclusive amount on the web page.
 6. Save index.php file
-7. Upload your PHP files in your respective folder :Assignment4_Part1
+7. Upload your PHP files in your respective folder :Assignment5_Part1
 
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part1/index.php
 
@@ -63,7 +63,7 @@ In this exercise, you will use your knowledge of PHP to display numbers from 1 t
 4. Create a variable to store each number in the loop.
 5. Display each number on a new line using the `print()` or `echo` statement.
 6. Save index.php file
-7. Upload your PHP files in your respective folder :Assignment4_Part2
+7. Upload your PHP files in your respective folder :Assignment5_Part2
 
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part2/index.php
 
@@ -81,7 +81,7 @@ In this homework assignment, you will practice working with PHP arrays. You will
 3. Use another PHP code block to display result of your associative array using foreach function
 4. Use another PHP code block to sort the array using ksort and display again.
 5. Save index.php file
-6. Upload your PHP files in your respective folder :Assignment4_Part3
+6. Upload your PHP files in your respective folder :Assignment5_Part3
 
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part3/index.php
 
@@ -108,7 +108,7 @@ Write the code that gets and displays the data entered by the user
 5. For the comment field, make sure to convert new line characters to <br> tags so the web page can display new line characters correctly.
 6. Test the application to make sure it works correctly. To do that, you can test text fields with special characters such as the ampersand (&), and you can press the Enter key in the comments field to enter a new line character.
 7. Save **display_result.php** file
-8. Upload your PHP files in your respective folder :Assignment4_Part4
+8. Upload your PHP files in your respective folder :Assignment5_Part4
 
 > You can check how the correct webpage should look like from 
 http://172.21.82.208/gift/class6/sol/part4/index.php
@@ -122,7 +122,7 @@ http://172.21.82.208/gift/class6/sol/part4/index.php
 1. Open the HTML file (index.html)
 2. Can you modify the PHP code in pizza.php so that it would receive the information the user input in the form shown in index.html?
 3. Save pizza.php file
-4. Upload your PHP files in your respective folder :Assignment4_Part5
+4. Upload your PHP files in your respective folder :Assignment5_Part5
 
    
 <img width="480" alt="Screenshot 2024-06-05 at 16 49 30" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/fae6d772-a569-4f13-abf2-bd527825bc7a">
