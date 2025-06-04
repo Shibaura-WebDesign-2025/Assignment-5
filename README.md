@@ -4,7 +4,10 @@
 
 ## How to upload your homework?
 
-1. Click on the URL : http://172.21.82.208/login.php to access the login page. You’re Username and Password will be provided by Slack. Please login with your credentials.
+1. Download and install FileZilla.
+![Screenshot 2025-06-04 224020](https://github.com/user-attachments/assets/92ee55e0-8d98-421a-85b2-01e57a1c99ea)
+
+
 
 <img width="460" alt="Screenshot 2024-06-04 at 17 22 46" src="https://github.com/Shibaura-WebDesign-2024/Assignment-4/assets/166518626/d51a8bb4-4609-46b9-a07e-c144925ce795">
 
