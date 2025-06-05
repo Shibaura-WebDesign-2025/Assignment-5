@@ -6,7 +6,7 @@
 
 # SFTP Login and Upload Instructions
 
-1. **Download and install FileZilla**  
+1. **Download and install FileZilla Client**  
    Visit [FileZilla’s official website](https://filezilla-project.org/) and download the appropriate version for your operating system. Follow the installation instructions.
 
 2. **Login to your account**  
