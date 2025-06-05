@@ -47,7 +47,7 @@ In this exercise, you will apply your knowledge of PHP to create a simple calcul
 5. Use another PHP code block to display the tax-inclusive amount on the web page.
 6. Save index.php file
 7. Upload your PHP files in your respective folder :Assignment5_Part1
-8. You can check how the look like from http://172.21.82.208/your_user_ID/Assignment5_Part1 (change with necessary folder name)/part1/index.php
+8. You can check how the look like from http://172.21.82.208/your_user_ID/Assignment5_Part1(change_with_necessary_folder_name)/part1/index.php
 
 > You can check how the correct webpage should look like from http://172.21.82.208/gift/class6/sol/part1/index.php
 
